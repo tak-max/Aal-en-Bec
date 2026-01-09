@@ -48,13 +48,10 @@ project:
 
     - title: Labs
       file: Content/Labs/uitleg.md
-      # children:
-        
-      # - title: Soortelijke warmte
-      #   children:
-      #     - file: Content/Labs/cwater.ipynb
-      #     - file: Content/Labs/Verdamping.ipynb        
-      #     - file: Content/Labs/Warmtecapaciteit.ipynb
+      children:
+        - file: Content/Labs/IP2_PR_cwater.ipynb
+        - file: Content/Labs/IP2_PR_verdamping.ipynb        
+        - file: Content/IP2_PR_conb_materiaal.ipynb
 
       # - title: Druk
       #   children:
