@@ -51,7 +51,8 @@ project:
       children:
         - file: Content/Labs/IP2_PR_cwater.ipynb
         - file: Content/Labs/IP2_PR_verdamping.ipynb        
-        - file: Content/IP2_PR_conb_materiaal.ipynb
+        - file: Content/Labs/IP2_PR_conb_materiaal.ipynb
+        - file: Content/Labs/IP2_PR_afkoelen_buizen.ipynb
 
       # - title: Druk
       #   children:
